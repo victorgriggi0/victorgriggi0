@@ -1,20 +1,19 @@
-<img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="340px" max-width="300px" width="300px" align="right">
+## Welcome to my profile! 👋
 
-```dart
-const victor = {
-    age: 21,
-    country: 'Brazil',
-    city: 'Cuiabá, MT',
-    languages: ['Brazilian Portuguese', 'English'],
-    interests: ['Web Development']
-};
-```
+Sou estudante de Engenharia de Software no Instituto Infnet, especializado em JavaScript, Node.js e React. Atualmente, estou aplicando essas habilidades em um estágio, contribuindo em projetos de desenvolvimento web e trabalhando com metodologias ágeis e em equipe.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Victor-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+Como entusiasta da tecnologia, estou sempre em busca de expandir meu conhecimento e habilidades. Já acumulei experiências práticas valiosas, com foco em React e Node.js, mantendo-me sempre atualizado e adaptável às novas tendências e práticas do setor.
+
+Meu interesse se estende ao desenvolvimento web e à gestão de equipes, áreas nas quais planejo continuar crescendo e contribuindo significativamente.
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victorgriggi0&theme=nord&show_icons=true&hide_border=true&count_private=true" /> </p>
+
+<p align="center">
+    <img align="center" alt="Victor-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Victor-CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Victor-Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Victor-React" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Victor-Node" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Victor-PostgreSQL" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Victor-Git" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+</p>
