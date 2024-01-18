@@ -1,10 +1,10 @@
 ## Welcome to my profile! 👋
 
-Sou estudante de Engenharia de Software no Instituto Infnet, especializado em JavaScript, Node.js e React. Atualmente, estou aplicando essas habilidades em um estágio, contribuindo em projetos de desenvolvimento web e trabalhando com metodologias ágeis e em equipe.
+I am a Software Engineering student at Instituto Infnet, specialized in JavaScript, Node.js, and React. Currently, I am applying these skills in an internship, contributing to web development projects and working with agile methodologies and team collaboration.
 
-Como entusiasta da tecnologia, estou sempre em busca de expandir meu conhecimento e habilidades. Já acumulei experiências práticas valiosas, com foco em React e Node.js, mantendo-me sempre atualizado e adaptável às novas tendências e práticas do setor.
+As a technology enthusiast, I am always seeking to expand my knowledge and skills. I have already accumulated valuable practical experiences, particularly in React and Node.js, while staying updated and adaptable to new trends and practices in the industry.
 
-Meu interesse se estende ao desenvolvimento web e à gestão de equipes, áreas nas quais planejo continuar crescendo e contribuindo significativamente.
+My interests extend to web development and team management, areas in which I plan to continue growing and making significant contributions.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victorgriggi0&theme=nord&show_icons=true&hide_border=true&count_private=true" /> </p>
 
