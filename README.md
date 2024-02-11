@@ -6,7 +6,7 @@ As a technology enthusiast, I am always seeking to expand my knowledge and skill
 
 My interests extend to web development and team management, areas in which I plan to continue growing and making significant contributions.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victorgriggi0&theme=react&show_icons=true&hide_border=true&count_private=true" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorgriggi0&theme=react&hide_border=true" /> </p>
 
 <p align="center">
     <img align="center" alt="Victor-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
